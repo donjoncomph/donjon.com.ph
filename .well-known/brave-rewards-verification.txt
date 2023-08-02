@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: donjon.com.ph
+Token: 6e28ee797f5f74b3347ffef0be627c7ccae7e1320ceccab75a291d3d26774637
