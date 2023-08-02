@@ -1,0 +1,4 @@
+# DONJON / NETLIFY REDIRECTS
+/                                               /
+/robots.txt                                     /robots.txt
+/.well-known/brave-rewards-verification.txt     /.well-known/brave-rewards-verification.txt
