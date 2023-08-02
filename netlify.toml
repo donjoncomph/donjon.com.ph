@@ -1,0 +1,13 @@
+[[redirects]]
+
+from = "/*"
+to = "/index.html"
+status = 200
+
+from = "/robots.txt"
+to = "/robots.txt"
+status = 200
+
+from = "/.well-known/brave-rewards-verification.txt"
+to = "/.well-known/brave-rewards-verification.txt"
+status = 200
