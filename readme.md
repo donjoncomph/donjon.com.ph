@@ -4,8 +4,8 @@
 
 ## Introduction
 
-DONJON is an innovation entity that focuses on ideas, technology, music and nature.
+DONJON is an innovation entity that focuses on ideas, technology, music and nature. These subjects will be cooked in a progressive web application.
 
-## DONJON Philippines Website
+## Install PWA
 
 [https://donjon.com.ph/](https://donjon.com.ph/)
